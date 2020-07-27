@@ -2,4 +2,9 @@ _-_-_-
 
 changes 2
 
+<<<<<<< HEAD
 cyntelle here... 
+=======
+
+edit on feature branch 
+>>>>>>> cyntelle-feature
